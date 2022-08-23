@@ -1,0 +1,123 @@
+{
+  "arena": [
+    {
+      "id": 3,
+      "name": "venusaur",
+      "weight": 1000,
+      "height": 20,
+      "base_experience": 263,
+      "ability": "overgrow",
+      "url": "https://pokeapi.co/api/v2/pokemon/3"
+    }
+  ],
+  "ulubione": [
+    {
+      "id": 4,
+      "name": "charmander",
+      "weight": 85,
+      "height": 6,
+      "base_experience": 62,
+      "ability": "blaze",
+      "url": "https://pokeapi.co/api/v2/pokemon/4"
+    },
+    {
+      "id": 5,
+      "name": "charmeleon",
+      "weight": 190,
+      "height": 11,
+      "base_experience": 142,
+      "ability": "blaze",
+      "url": "https://pokeapi.co/api/v2/pokemon/5"
+    }
+  ],
+  "updated": [
+    {
+      "id": 1,
+      "name": "bulbasaur",
+      "weight": "",
+      "height": "",
+      "ability": "",
+      "base_experience": "",
+      "url": "https://pokeapi.co/api/v2/pokemon/1"
+    },
+    {
+      "id": 3,
+      "name": "Bartek",
+      "weight": "99",
+      "height": "199",
+      "ability": "js",
+      "base_experience": "1100",
+      "url": "https://pokeapi.co/api/v2/pokemon/3"
+    },
+    {
+      "id": 9,
+      "name": "blastoise",
+      "weight": 855,
+      "height": 16,
+      "ability": "torrent",
+      "base_experience": 295,
+      "url": "https://pokeapi.co/api/v2/pokemon/9"
+    },
+    {
+      "id": 8,
+      "name": "wartortle",
+      "weight": 225,
+      "height": 10,
+      "ability": "torrent",
+      "base_experience": 162,
+      "url": "https://pokeapi.co/api/v2/pokemon/8"
+    },
+    {
+      "id": 2,
+      "name": "ivysaur",
+      "weight": "12",
+      "height": "11",
+      "ability": "13",
+      "base_experience": "14",
+      "url": "https://pokeapi.co/api/v2/pokemon/2"
+    }
+  ],
+  "users": [
+    {
+      "name": "Konrad",
+      "email": "asd@asd.pl",
+      "password": "123456aS?",
+      "id": 1
+    },
+    {
+      "name": "asd",
+      "email": "123@gmail.com",
+      "password": "123456aS?",
+      "id": 2
+    }
+  ],
+  "new": [
+    {
+      "id": 151,
+      "name": "Mati",
+      "weight": 80,
+      "height": 180,
+      "base_experience": 1000,
+      "ability": "react",
+      "url": "https://pokeapi.co/api/v2/pokemon/2"
+    },
+    {
+      "id": 2,
+      "name": "ivysaur",
+      "weight": "12",
+      "height": "11",
+      "ability": "13",
+      "base_experience": "14",
+      "url": "https://pokeapi.co/api/v2/pokemon/2"
+    },
+    {
+      "id": 3,
+      "name": "Bartek",
+      "weight": "99",
+      "height": "199",
+      "ability": "js",
+      "base_experience": "1100",
+      "url": "https://pokeapi.co/api/v2/pokemon/3"
+    }
+  ]
+}
